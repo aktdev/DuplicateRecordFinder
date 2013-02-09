@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+build/
+test/
+manifest.mf
+result.csv
